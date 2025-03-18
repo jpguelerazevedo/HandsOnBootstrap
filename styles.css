@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 * {
     font-family: sans-serif;
     color: white;
 }
 
 header {
+=======
+*{
+    font-family: sans-serif;
+}
+
+header{
+>>>>>>> 438b06cf5508437bc45864f02bf91763c6092dd7
     padding: 1rem 0 1rem 0;
 }
 
@@ -13,6 +21,7 @@ header {
 
 .nav-link:hover {
     transition: 0.3s;
+<<<<<<< HEAD
     color: rgba(255, 255, 255, 0.397)
 }
 
@@ -90,4 +99,11 @@ textarea:focus {
 
 .card-subtitle{
     color: rgba(255, 255, 255, 0.568);
+=======
+    color: #ffffff6b
+}
+
+body{
+    background-color: #000000de;
+>>>>>>> 438b06cf5508437bc45864f02bf91763c6092dd7
 }
