@@ -1,17 +1,9 @@
-<<<<<<< HEAD
 * {
     font-family: sans-serif;
     color: white;
 }
 
 header {
-=======
-*{
-    font-family: sans-serif;
-}
-
-header{
->>>>>>> 438b06cf5508437bc45864f02bf91763c6092dd7
     padding: 1rem 0 1rem 0;
 }
 
@@ -21,7 +13,6 @@ header{
 
 .nav-link:hover {
     transition: 0.3s;
-<<<<<<< HEAD
     color: rgba(255, 255, 255, 0.397)
 }
 
@@ -60,7 +51,7 @@ body {
 input:focus,
 textarea:focus {
     transition: all 0.5s ease-in-out;
-    background-color: #f0f0f0ea !important;
+    background-color: #f0f0f09b !important;
     /* Altere para a cor desejada */
     border-color: transparent !important;
     /* Remove a borda */
@@ -99,11 +90,4 @@ textarea:focus {
 
 .card-subtitle{
     color: rgba(255, 255, 255, 0.568);
-=======
-    color: #ffffff6b
-}
-
-body{
-    background-color: #000000de;
->>>>>>> 438b06cf5508437bc45864f02bf91763c6092dd7
 }
